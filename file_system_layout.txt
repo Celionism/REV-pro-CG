@@ -1,0 +1,14 @@
+#variable_name
+files will be represented with an extension
+folders will not have an extension
+
+- files
+    - movies
+        - #movie_id
+            - movie_details.json
+            - #movie_id.mp4
+            - subtitles
+                #movie_id_#language.ssa
+                #movie_id_#language.vtt
+    - shows
+    - images
