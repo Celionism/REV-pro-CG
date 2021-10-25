@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://via.placeholder.com/150" style="width:128px; padding: 20px;"></img>
 	<h1 align="center">Movie Buddy</h1>
     <p align="center">
     </p>
